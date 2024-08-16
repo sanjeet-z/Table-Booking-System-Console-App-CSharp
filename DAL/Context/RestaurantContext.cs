@@ -28,31 +28,31 @@ namespace DAL.Context
                 new Users
                 {
                     Id = 1,
-                    Email = "vinay.step2gen@gmail.com",
+                    Email = "user1@gmail.com",
                     Password = "password1",
                 },
                 new Users
                 {
                     Id = 2,
-                    Email = "sanjeet.step2gen@gmail.com",
+                    Email = "user2@gmail.com",
                     Password = "password2",
                 },
                 new Users
                 {
                     Id = 3,
-                    Email = "sandeep.step2gen@gmail.com",
+                    Email = "user3@gmail.com",
                     Password = "password3",
                 },
                 new Users
                 {
                     Id = 4,
-                    Email = "hr.step2gen@gmail.com",
+                    Email = "user4@gmail.com",
                     Password = "password4",
                 },
                 new Users
                 {
                     Id = 5,
-                    Email = "cricket.step2gen@gmail.com",
+                    Email = "user5@gmail.com",
                     Password = "password5",
                 });
         }

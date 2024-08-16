@@ -15,3 +15,4 @@ C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\BAL.dll
 C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\refint\BAL.dll
 C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\BAL.pdb
 C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\ref\BAL.dll
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\BAL.sourcelink.json

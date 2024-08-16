@@ -135,3 +135,4 @@ C:\Users\ASUS\source\repos\RestaurantTableBookingUI\RestaurantTableBookingUI\bin
 C:\Users\ASUS\source\repos\RestaurantTableBookingUI\RestaurantTableBookingUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ASUS\source\repos\RestaurantTableBookingUI\RestaurantTableBookingUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ASUS\source\repos\RestaurantTableBookingUI\RestaurantTableBookingUI\bin\Debug\net8.0\ConsoleTables.dll
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\RestaurantTableBookingUI\obj\Debug\net8.0\RestaurantTableBookingUI.sourcelink.json
