@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\BAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\bin\Debug\net8.0\BAL.deps.json
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\bin\Debug\net8.0\BAL.dll
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\bin\Debug\net8.0\BAL.pdb
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\bin\Debug\net8.0\Shared.dll
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\bin\Debug\net8.0\Shared.pdb
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\BAL.csproj.Up2Date
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\BAL.dll
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\refint\BAL.dll
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\BAL.pdb
+C:\Users\ASUS\source\repos\RestaurantTableBookingUI\BAL\obj\Debug\net8.0\ref\BAL.dll
